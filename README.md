@@ -85,8 +85,9 @@ This helps identify job roles with high attrition risk and low job satisfaction.
 ---
 
 ## Tools Used
-- Power BI
-- Excel (Data Cleaning & Preparation)
+- Power BI.
+- Dax & Power query.
+- Excel (Data Cleaning & Preparation).
 
 ---
 
