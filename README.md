@@ -92,7 +92,7 @@ This helps identify job roles with high attrition risk and low job satisfaction.
 ---
 
 ## Dashboard Preview
-![HR Attrition Dashboard](dashboard.gif)
+![HR Attrition Dashboard](https://github.com/94vksaini-dotcom/Power-BI-dashboard/blob/main/HR_Attrition_Dashboard_GIF.gif)
 
 ---
 
