@@ -5,7 +5,7 @@ This Power BI dashboard provides a complete analysis of employee attrition using
 It helps understand attrition trends based on department, age, gender, job role, education, salary, business travel, marital status, and overtime.
 
 ---
-<a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Project Link</a>
+<a href="https://https://github.com/94vksaini-dotcom/Power-BI-dashboard/blob/main/HR_Attrition_Dashboard_GIF.gif">Project Link</a>
 
 ---
 
